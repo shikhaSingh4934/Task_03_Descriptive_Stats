@@ -20,5 +20,5 @@ This repository contains multiple approaches to summarize and analyze Facebook a
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/shikhaSingh4934/Task_03_Descriptive_Stats.git
+   cd Task_03_Descriptive_Stats
